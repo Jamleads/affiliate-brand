@@ -1,0 +1,163 @@
+* {
+    font-family: 'Montserrat';
+}
+nav {
+    box-shadow: 0px 10px 30px;
+}
+#title {
+    color: #0A2F57;
+}
+.spf {
+    color: #C61A1A;
+    font-weight: 700;
+    font-size: 20px;
+}
+#btn {
+    width: 170px;
+    background-color: #C61A1A;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 0px;
+}
+.showcase {
+    z-index: 1;
+    margin-top: 70px;
+    height: 100vh;
+    background-image: url(../img/Group\ 1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.heading {
+    margin-top: 100px;
+}
+/* @media screen and (max-width: 800px) {
+    .heading {
+        text-align: center;
+        margin-top: -1px;
+    }
+    .showcase h1 {
+        font-size: 50px !important;
+    }
+    .showcase p {
+        font-size: 20px !important;
+    }
+    .heading #show-btn {
+        margin-top: -10px;
+    }
+} */
+.showcase h1 {
+    font-size: 60px;
+}
+.showcase p, .section1c p  {
+    font-size: 20px;
+    font-weight: 200;
+}
+#show-btn {
+    width: 220px;
+    background-color: #C61A1A;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 0px;
+}
+.step {
+    background-color: #F1F0F0;
+    padding-left: 19px;
+    padding-right: 15px;
+    padding-top: 11px;
+    padding-bottom: 3px;
+    border-radius: 60px;
+}
+.step-nm {
+    font-size: 30px;
+    color: #C61A1A;
+}
+.card-title, .section1 h1, .section2 h1, .section1c h1 {
+    color: #0A2F57;
+}
+.section2, .section4 {
+    background-color: #F1F0F0;
+}
+.section2 .row {
+    align-items: center;
+}
+.card2 {
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.card2-img {
+    width: 100px;
+}
+.card-title2 {
+    color: #C61A1A;
+}
+.point {
+    align-items: center;
+}
+.mark {
+    width: 35px;
+    border-radius: 50px;
+    background-color: #F1F0F0;
+}
+.mark img {
+    width: 25px;
+}
+@media screen and (min-width: 995px) {
+    .side1 {
+        justify-content: end;
+    }
+}
+#accordionFlushExample button {
+    background-color: #F1F0F0;
+    border: none;
+}
+.footer {
+    background-color: #0A2F57;
+    
+}
+.signup {
+    margin-top: 70px;
+    background-image: url(../img/Group\ 1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.signup h1 {
+    font-size: 50px;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+.show2 {
+    background-image: url(../img/Group\ 1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#form {
+    background-color: #F1F0F0;
+    border: none;
+    border-radius: 15px;
+}
+.icon {
+    font-size: 80px;
+    color: #0A2F57;
+}
+.partner {
+    margin-top: 150px;
+}
+.section6 h1, .con h1 {
+    color: #0A2F57;
+}
+.success {
+    height: 30vh;
+    background-image: url(../img/Group\ 1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.succ-text {
+    margin-top: 130px;
+}
